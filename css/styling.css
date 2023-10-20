@@ -41,7 +41,7 @@ body {
 .section1::after {
   content: "";
   position: absolute;
-  bottom: 120px;
+  bottom: 150px;
   left: 48%;
   transform: translateX(-50%);
   border: solid #ffffff;
@@ -287,7 +287,7 @@ body {
 }
 
 .img {
-  max-width: 407px;
+  max-width: 405px;
   margin: -2px;
 }
 
